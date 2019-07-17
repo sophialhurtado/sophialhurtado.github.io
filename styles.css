@@ -1,0 +1,30 @@
+body{
+    background-color:yellow;
+    background-image: url("sunset.jpg");
+}
+
+p{
+    color:white;
+    text-align:center;
+}
+
+h1{
+    color:white;
+}
+
+script{
+	text-align:right;
+	
+}
+
+#name{
+	color:white;
+	margin: 10px;
+    border-color: white;
+    border-width: 2px;
+    border-style: solid;
+}
+
+img {
+	text-align:left;
+}
